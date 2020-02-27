@@ -17,6 +17,7 @@ module.exports = {
         } catch(erro) {
             res.status(500).send(erro)
         }
+        
 
     }
 
